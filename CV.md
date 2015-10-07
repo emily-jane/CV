@@ -7,7 +7,8 @@ An enthusiastic Junior Developer and Makers Academy graduate with a passion for 
 
 |Project Name | Description |
 |-------------|-------------|
-| [randCast] (https://github.com/emily-jane/randCast) | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements. |
+| [randCast] (https://github.com/emily-jane/randCast) | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements, using the Audiosearch API. |
+| [onTap] (https://github.com/emily-jane/onTap_2) | A web page built in AngularJS for a 2 day makerthon. Uses the Yelp API and Google Maps API to show pubs in your local area. |
 | Other examples | ...update once github is updated |
 
 
