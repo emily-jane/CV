@@ -10,7 +10,7 @@ An enthusiastic Junior Developer and Makers Academy graduate with a passion for 
 | [randCast] (https://github.com/emily-jane/randCast) | Ionic, AngularJS, Javascript, audiosear.ch API, CSS, HTML, Protractor, Karma, Sinatra | Final project submission for Makers Academy. A mobile Ionic app that randomly generates new podcasts based on the users genre and time frame requirements, using the Audiosearch API. |
 | [onTap] (https://github.com/emily-jane/onTap_2) | AngularJS, Javascript, CSS, HTML, Karma, Yelp API | A web page built in AngularJS for a 2 day makerthon. Uses the Yelp API and Google Maps API to show pubs in your local area. |
 | [InstaClone] (https://github.com/emily-jane/instaClone) | Ruby on Rails, RSpec, CSS, HTML, Foundation | Instaclone... |
-| [Bowling Challenge] (https://github.com/emily-jane/bowling-challenge) | Javascript, Karma | Bowling Challenge... |
+| [Bowling Challenge] (https://github.com/emily-jane/bowling-challenge) | Javascript, Jasmine | Bowling Challenge... |
 | Other examples | ...update once github is updated | ... |
 
 
