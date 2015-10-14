@@ -13,9 +13,9 @@ An enthusiastic Junior Developer and Makers Academy graduate with a passion for 
 | [Bowling Challenge] (https://github.com/emily-jane/bowling-challenge) | Javascript, Jasmine | Bowling Challenge... |
 | Other examples | ...update once github is updated | ... |
 
+### Education
 
-
-### Makers Academy (July - October 2015)
+#### Makers Academy (July - October 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -25,16 +25,9 @@ An enthusiastic Junior Developer and Makers Academy graduate with a passion for 
 - Datamapper, PostgreSQL
 - Rspec, Jasmine, Karma, Protractor
 
-### Metrics Analyst, hVIVO (October 2012 - July 2015)
+#### Mathematics BSc, University of Sussex (September 2009 - August 2012)
 
-#### Responsibilities include: 
-Database management, analysing patient demographics, forecasting future study requirements and recruitment timelines, headcount forecasting, KPI reporting, and creating reports for management with regards to study progress.
-#### Skills: 
-Access, Excel, Tableau, VBA.
-
-### Mathematics BSc, University of Sussex (September 2009 - August 2012)
-
-#### Subjects including:
+##### Subjects including:
 - Cryptography
 - Coding Theory
 - Linear Statistical Models
@@ -42,5 +35,17 @@ Access, Excel, Tableau, VBA.
 - Minitab
 - Actionscript 3.0
 - SAS
+
+### Previous Experience
+
+#### Metrics Analyst, hVIVO (October 2012 - July 2015)
+
+##### Responsibilities included: 
+Database management, analysing patient demographics, forecasting future study requirements and recruitment timelines, headcount forecasting, KPI reporting, and creating reports for management with regards to study progress.
+
+Created a study forecasting tool that managed study progress and future study predictions and requirements, and helped solve a large problem with forecasting in the company.
+
+##### Skills: 
+Access, Excel, Tableau, VBA.
 
 ### Hobbies?
