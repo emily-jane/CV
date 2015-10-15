@@ -6,7 +6,7 @@ I'm a Mathematics graduate with a passion for programming and with a focus on cl
 
 #### Full Stack Web Development
 
-During my time at Makers Academy, I have learnt a multitude of skills that means I can now confidently build an end-to-end web application. We started off learning Ruby, then went into building web apps using Ruby on Rails tested with RSpec. We also learnt Javascript and built AngularJS applications tested with Karma and Protractor. For my final project we wanted to build a mobile app so we taught ourselves how to use the Ionic framework. Below are some of my favourite projects to date:
+During my time at Makers Academy, I've gone from being a novice coder to being able to confidently build end-to-end web and mobile applications. We started off learning Ruby, then went into building web apps using Ruby on Rails tested with RSpec. We also learnt Javascript and built AngularJS applications tested with Karma and Protractor. For my final project we wanted to build a mobile app so we taught ourselves how to use the Ionic framework. Below are some of my favourite projects to date:
 
 #### Project Examples
 
@@ -19,7 +19,7 @@ During my time at Makers Academy, I have learnt a multitude of skills that means
 
 #### Problem Solving
 
-When I joined my previous job as an analyst for a clinical trials company, their study forecasting process was very laborious and manual. To solve this, I decided to teach myself Excel VBA and create an automatic study forecasting tool. This managed study progress, future study predictions and subject requirements, staffing requirements and targets for every area in the company to work against. It involved me working with every department in the company, and bringing them together to work from the same study plan. It was a very successful and enjoyable project, and it is a tool that the company is still using to this day. 
+When I joined my previous job as an analyst for a clinical trials company, their study forecasting process was very laborious and manual. To solve this, I decided to teach myself Excel VBA and create an automatic study forecasting tool. This managed study progress, future study predictions and subject requirements, staffing requirements and targets for every area in the company to work against. It involved me working with every department in the company, and bringing them together to work from the same study plan. I then linked the tool to Tableau, a visual analytics software, so the whole company could have live updates on their progress. Before I started there was a person in the analytics team whose job was to manually calculate targets and requirements every time the study plan changed (which was often!). After I built the tool, this job became redundant and the analyst moved on to more productive projects. It was a very successful and enjoyable project, and it is a tool that the company is still using to this day. 
 
 During Makers Academy, every day there was a new problem to tackle. This really came about during our final projects, learning a new framework and building a mobile app for the first time. We worked through it as a team, using waffle.io to distribute features, working in pairs and using Git version control to seperate the features, and having stand ups every morning.
 
