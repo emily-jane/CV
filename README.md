@@ -18,7 +18,9 @@ During my time at Makers Academy, I've gone from being a novice coder to being a
 
 #### Problem Solving
 
-When I joined my previous job as an analyst for a clinical trials company, their study forecasting process was very laborious and manual. To solve this, I decided to teach myself Excel VBA and create an automatic study forecasting tool. This managed study progress, future study predictions and subject requirements, staffing requirements and targets for every area in the company to work against. It involved me working with every department in the company, and bringing them together to work from the same study plan. I then linked the tool to Tableau, a visual analytics software, so the whole company could have live updates on their progress.  
+When I joined my previous job as an analyst for a clinical trials company, their study forecasting process was very laborious and manual. To solve this, I decided to teach myself Excel VBA and create an automatic study forecasting tool. This managed study progress, future study predictions and subject requirements, staffing requirements and targets for every area in the company to work against. 
+
+It involved me working with every department in the company, and bringing them together to work from the same study plan. I then linked the tool to Tableau, a visual analytics software, so the whole company could have live updates on their progress.  
   
 Before I started there was a person in the analytics team whose job was to manually calculate targets and requirements every time the study plan changed (which was often!). After I built the tool, this job became redundant and the analyst moved on to more productive projects. It was a very successful and enjoyable project, and it is a tool that the company is still using to this day. 
 
